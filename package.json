@@ -1,0 +1,19 @@
+{
+  "name": "boilder-plate-docker-redis-nginx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "docker-compose up"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saadshahid22339922/boilder-plate-Docker-Redis-Nginx.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saadshahid22339922/boilder-plate-Docker-Redis-Nginx/issues"
+  },
+  "homepage": "https://github.com/saadshahid22339922/boilder-plate-Docker-Redis-Nginx#readme"
+}
